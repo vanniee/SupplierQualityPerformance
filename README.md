@@ -33,7 +33,7 @@ This Power BI project provides an interactive dashboard that provides in-depth a
 
 <p align="center">
 📌 **💻 View Interactive Report** <br/>
-<img src="file:///C:/Users/iyere/Downloads/Supplier%20Defect%20Dashboard.pdf" height="80%" width="80%" alt="Power BI Dashboard"/>
+<img src="Supplier Defect Dashboard.pdf" height="80%" width="80%" alt="Power BI Dashboard"/>
 </p>  
 
 
