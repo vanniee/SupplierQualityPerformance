@@ -31,10 +31,10 @@ This Power BI project provides an interactive dashboard that provides in-depth a
 
 <h2>📊 Dashboard creation walk-through</h2>  
 
-<p align="center">
-📌 **💻 View Interactive Report** <br/>
-<img src="[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmJiNmNjY2QtMjBhZS00MmE4LTk3MjUtYzFjZDdkOWM5OWU1IiwidCI6IjgwZGY3ODU4LWVlMGQtNDljOS04YTE4LWU4ODU0M2QyNzE4YiJ9)" height="80%" width="80%" alt="View Interactive Supplier Quality Report"/> 
-</p>  
+
+[Click here to view the full interactive Supplier Quality Report](https://app.powerbi.com/view?r=eyJrIjoiZmJiNmNjY2QtMjBhZS00MmE4LTk3MjUtYzFjZDdkOWM5OWU1IiwidCI6IjgwZGY3ODU4LWVlMGQtNDljOS04YTE4LWU4ODU0M2QyNzE4YiJ9&pageName=bb129ea488908a020a5a)<br/>
+
+
 
 
 Edit, Transform and Load: <br/>
@@ -49,23 +49,23 @@ Edit, Transform and Load: <br/>
 
 
 Edit, Transform and Load:  <br/>
-<img src="https://i.imgur.com/0Krlm0g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0Krlm0g.png" height="80%" width="80%" alt="EDT"/>
 <br />
 <br />
 Edit, Transform and Load: <br/>
-<img src="https://i.imgur.com/UZcUXml.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UZcUXml.png" height="80%" width="80%" alt="EDT"/>
 <br />
 <br />
 DAX Measures:  <br/>
-<img src="https://i.imgur.com/MfMtGNy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MfMtGNy.png" height="80%" width="80%" alt="DAX Measures"/>
 <br />
 <br />
 Linking Relationships:  <br/>
-<img src="https://i.imgur.com/DwwgVOt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DwwgVOt.png" height="80%" width="80%" alt="Linking Relationships"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/X6xSu2j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Table:  <br/>
+<img src="https://i.imgur.com/X6xSu2j.png" height="80%" width="80%" alt="Table Steps"/>
 <br />
 <br />
 
