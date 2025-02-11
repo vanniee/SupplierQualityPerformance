@@ -33,7 +33,7 @@ This Power BI project provides an interactive dashboard that provides in-depth a
 
 <p align="center">
 📌 **💻 View Interactive Report** <br/>
-<img src="[Supplier Defect Dashboard.pdf](https://app.powerbi.com/view?r=eyJrIjoiZmJiNmNjY2QtMjBhZS00MmE4LTk3MjUtYzFjZDdkOWM5OWU1IiwidCI6IjgwZGY3ODU4LWVlMGQtNDljOS04YTE4LWU4ODU0M2QyNzE4YiJ9)" height="80%" width="80%" alt="Power BI Dashboard"/> 
+<img src="[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmJiNmNjY2QtMjBhZS00MmE4LTk3MjUtYzFjZDdkOWM5OWU1IiwidCI6IjgwZGY3ODU4LWVlMGQtNDljOS04YTE4LWU4ODU0M2QyNzE4YiJ9)" height="80%" width="80%" alt="View Interactive Supplier Quality Report"/> 
 </p>  
 
 
